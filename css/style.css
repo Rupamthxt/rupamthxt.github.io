@@ -225,7 +225,7 @@ li:hover {
 
 /* preloader section  */
 .preloader {
-  position: relative;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
